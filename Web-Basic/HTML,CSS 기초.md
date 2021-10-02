@@ -30,3 +30,8 @@ ex: < title>,< div>,< a>
 ## 4. CSS 개발시 유용한 웹페이지
 1) bootstrap: https://getbootstrap.com/docs/4.0/components/alerts/
 2) goole font: https://fonts.google.com
+
+## 5. HTML과 CSS를 이용하여 만든 웹페이지 예제
+- 스크린샷
+
+- git주소: https://github.com/jmParkGit/Sparta_web-development/blob/main/homework/week1/homework_1.html
