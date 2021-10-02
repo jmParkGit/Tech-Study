@@ -32,4 +32,4 @@ ex: < title>,< div>,< a>
 2) goole font: https://fonts.google.com
 
 ## 5. HTML과 CSS를 이용하여 만든 웹페이지 예제
-- git: https://github.com/jmParkGit/Sparta_web-development/blob/main/homework/week1/homework_1.html
+- git: https://github.com/jmParkGit/Sparta_web-development/tree/main/homework/week1
