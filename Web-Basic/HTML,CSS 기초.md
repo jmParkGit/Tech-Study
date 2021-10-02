@@ -12,8 +12,7 @@ ex: < title>,< div>,< a>
 
 |#|HTML|browser|
 | --- | --- | --- |
-|1|<img width="332" alt="스크린샷 2021-10-03 오전 3 00 35" src="https://user-images.githubusercontent.com/84515872/135727285-2d7850c1-12d1-4cd3-98a1-e9f3463e7df4.png">
-|<img width="381" alt="스크린샷 2021-10-03 오전 3 01 29" src="https://user-images.githubusercontent.com/84515872/135727295-25129383-2f7f-47bb-bcea-ac76642898bc.png">|
+|1|<img width="332" alt="스크린샷 2021-10-03 오전 3 00 35" src="https://user-images.githubusercontent.com/84515872/135727285-2d7850c1-12d1-4cd3-98a1-e9f3463e7df4.png">|<img width="381" alt="스크린샷 2021-10-03 오전 3 01 29" src="https://user-images.githubusercontent.com/84515872/135727295-25129383-2f7f-47bb-bcea-ac76642898bc.png">|
 
 ## 3. CSS 기초
 - HTML문서 안의 < head>~< /head>안에 <style>~</style>를 넣어서 사용가능
