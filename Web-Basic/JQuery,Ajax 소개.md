@@ -20,6 +20,7 @@ $('#element').hide();
 ## 2. Ajax란
 - Asynchronous Javascript And Xml
 - 서버와 통신하기 위하 JavaScript라이브러리 중 하나
+- Ajax는 jQuery를 import한 경우에만 동작
 - Ajax코드 예시
 ```jsx
 $.ajax({
