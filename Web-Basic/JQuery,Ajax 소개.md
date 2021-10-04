@@ -10,7 +10,7 @@ document.getElementById("element").style.display = "none";
 ```jsx
 $('#element').hide();
 ```
-- JQuery사용법
+- JQuery사용법  
 -- JQuery CDN import하기: [링크](https://www.w3schools.com/jquery/jquery_get_started.asp)
 -- head에 아래 구문 입력하기
 ```html
