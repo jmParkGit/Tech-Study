@@ -2,17 +2,17 @@
 
 ## 1. JQuery란?
 - Javascript코드르 미리 라이브러리화로 만들어 둔것
-- Javascript
+- Javascript 코드
 ```jsx
 document.getElementById("element").style.display = "none";
 ```
-- JQuery
+- JQuery 코드
 ```jsx
 $('#element').hide();
 ```
 - JQuery사용법  
--- JQuery CDN import하기: [링크](https://www.w3schools.com/jquery/jquery_get_started.asp)
--- head에 아래 구문 입력하기
+  - JQuery CDN import하기: [링크](https://www.w3schools.com/jquery/jquery_get_started.asp)   
+  - head에 아래 구문 입력하기  
 ```html
 < script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 ```
@@ -34,4 +34,4 @@ $.ajax({
 ```
 
 ## 3. 사용예제
-- [코드](https://github.com/jmParkGit/Sparta_web-development/blob/main/homework/week2/homework_2.html) 안의 script->ajax 부분 참고
+- [코드](https://github.com/jmParkGit/Sparta_web-development/blob/main/homework/week2/homework_2.html) 안의 script/ajax 코드부분 참고
