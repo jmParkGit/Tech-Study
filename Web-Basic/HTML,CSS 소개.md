@@ -1,9 +1,9 @@
-# HTML,CSS 기초
+# HTML,CSS 소개
 
 ## 1. HTML,CSS 소개
 - HTML은 전체 틀(frame), CSS는 생김새
 
-## 2. HTML 기초
+## 2. HTML 소개
 - HTML은 head와 body로 이루어진 Tree형태의 문서이다.
 - head안에는 html문서의 정보를 가지고 있다.
 - body에는 컨텐츠가 포함된다.
@@ -14,7 +14,7 @@ ex: < title>,< div>,< a>
 | --- | --- | --- |
 |1|<img width="332" alt="스크린샷 2021-10-03 오전 3 00 35" src="https://user-images.githubusercontent.com/84515872/135727285-2d7850c1-12d1-4cd3-98a1-e9f3463e7df4.png">|<img width="381" alt="스크린샷 2021-10-03 오전 3 01 29" src="https://user-images.githubusercontent.com/84515872/135727295-25129383-2f7f-47bb-bcea-ac76642898bc.png">|
 
-## 3. CSS 기초
+## 3. CSS 소개
 - HTML문서 안의 < head>~< /head>안에 <style>~</style>를 넣어서 사용가능
 
 |#|HTML|browser|
