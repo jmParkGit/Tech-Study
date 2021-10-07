@@ -21,7 +21,7 @@ b_list[2] // 'Hello'를 출력
 
 // 리스트에 요소 넣기
 b_list.push('안녕')
-b_list // [1, 2, "hey", 3, "안녕"] 를 출력
+b_list // [1, 4, "Hello", 3, "안녕"] 를 출력
 
 // 리스트의 길이 구하기
 b_list.length // 5를 출력
