@@ -6,3 +6,4 @@
 ## Web-Basic
 - [HTML,CSS 소개](https://github.com/jmParkGit/Tech-Study/blob/main/Web-Basic/HTML,CSS%20소개.md)
 - [JQuery,Ajax 소개](https://github.com/jmParkGit/Tech-Study/blob/main/Web-Basic/JQuery%2CAjax%20소개.md)
+- [JavaScript 소개](https://github.com/jmParkGit/Tech-Study/blob/main/Web-Basic/JavaScript%20소개.md)
