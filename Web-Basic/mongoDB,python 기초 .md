@@ -1,4 +1,4 @@
-# mmongoDB,python 기초
+# mongoDB,python 기초
 
 - 사용할 tools
 1) python패키지: pymongo
