@@ -24,8 +24,9 @@
 expo login --username "Expo 사이트 가입당시 입력한 name"
 ```
 
-- Expo 프로젝트 기본 폴더구조
-//사진
+- Expo 프로젝트 기본 폴더구조   
+<img width="186" alt="스크린샷 2021-10-18 오전 3 14 39" src="https://user-images.githubusercontent.com/84515872/137639769-df9fe1f2-504b-4067-a961-c78887b3f2b7.png">.  
+
   - assets: 앱의 이미지 및 아이콘 파일을 담는 폴더
   - node_modules: 각종 라이브러리가 저장됨
   - App.js: main함수라고 생각하면됨
