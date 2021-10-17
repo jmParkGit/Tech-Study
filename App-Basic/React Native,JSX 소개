@@ -1,0 +1,15 @@
+# React Native,JSX 문법 소개
+
+1. React Native란
+- React Native는 페이스북에서 만든 오픈소스 모바일 어플리케이셔 프레임워크
+- Javascript로 개발 가능
+- 하나의 언어로 IOS와 안드로이드 모바일 앱 동시개발 가능
+- [Link](https://reactnative.dev/)
+
+2. tool 소개
+1) Expo
+- React Native로 개발을 할때 Expo를 이용해서 쉽게 앱을 테스트용으로 실행시켜볼수 있다.
+- [Link](https://expo.dev)
+
+2)
+
