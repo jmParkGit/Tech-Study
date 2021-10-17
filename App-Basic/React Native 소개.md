@@ -41,9 +41,9 @@ expo login --username "Expo 사이트 가입당시 입력한 name"
 
 - jSX문법에서 tag의 스타일을 주는 방식은 html의 css를 연상시킴.
 
--[style_official_document](https://reactnative.dev/docs/style#docsNav)
+- [style_official_document](https://reactnative.dev/docs/style#docsNav)
 
--예제코드   
+- 예제코드   
 ![KakaoTalk_20211018_024117768](https://user-images.githubusercontent.com/84515872/137639542-c202ba7b-79da-4c8a-bbc5-6ebbb0934ba2.jpg)   
 [예제코드 링크](https://github.com/jmParkGit/sparta-myhoneytip-jm/blob/main/pages/AboutPage.js)
 
