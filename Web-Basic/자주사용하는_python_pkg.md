@@ -13,3 +13,4 @@
 ```shell
 safaridriver --enable
 ```
+- 문서: https://selenium-python.readthedocs.io/locating-elements.html
