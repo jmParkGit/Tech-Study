@@ -7,3 +7,9 @@
 ## pymongo
 
 ## flask
+
+##Selenium
+- 맥북에서 맥사파리 드라이버 ON cmd
+```shell
+safaridriver --enable
+```
