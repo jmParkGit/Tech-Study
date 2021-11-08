@@ -1,6 +1,6 @@
 # OSError: [Errno 48] Address already in use 해결법
 
-1.lsof shell cmd로 PID확인
+1. lsof shell cmd로 PID확인
 ```shell
  parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding  lsof -i TCP:5001
 COMMAND  PID       USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
