@@ -55,6 +55,13 @@ ps -ef | grep 'app.py'
 # 아래 명령어로 특정 프로세스를 죽인다
 kill -9 [pid값]
 ```
+```shell
+ubuntu@ip-172-31-11-163:~/sparta$ ps -ef | grep "app.py"
+ubuntu   23696 23345  0 22:29 pts/0    00:00:02 python app.py
+ubuntu   23706 23696  0 22:29 pts/0    00:00:32 /usr/bin/python /home/ubuntu/sparta/app.py
+ubuntu   24002 23345  0 23:54 pts/0    00:00:00 grep --color=auto app.py
+ubuntu@ip-172-31-11-163:~/sparta$ kill -9 23706
+```
 
 ## og태그
 - OG tag는 SNS나 메신저에 링크르 공유할때나오는 미리보기 화면
