@@ -1,5 +1,4 @@
-# Componene 비교
-## 1.Introduction
+# Component 비교
 - React Native와 React는 유사
 - React는 웹 컴포넌트를 이용
 - 하지만 React Native는 자체 컴포넌트 이용
@@ -11,3 +10,5 @@
 <li>,<ul> vs <FlastList>, child items
 <img> vs <Image>
 ```
+
+- 플랫폼(안드로이드, iOS) 각각에만 있는 컴포넌트도 존재
