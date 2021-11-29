@@ -22,7 +22,7 @@ func main() {
 ## 3. 예제
 - go run 이용
 ```shell
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main  cat helloworld.go
+>>cat helloworld.go
 package main
 
 import "fmt"
@@ -30,12 +30,12 @@ import "fmt"
 func main() {
 	fmt.Println("hello world");
 }
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main  go run helloworld.go
+>>go run helloworld.go
 hello world
 ```
 - 바이너리 빌드 후 실행
 ```shell
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main  cat helloworld.go
+>>cat helloworld.go
 package main
 
 import "fmt"
@@ -43,11 +43,11 @@ import "fmt"
 func main() {
 	fmt.Println("hello world");
 }
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main  go fmt helloworld.go
+>>go fmt helloworld.go
 helloworld.go
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main ±  go build helloworld.go
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main ±  ls
+>>go build helloworld.go
+>>ls
 helloworld    helloworld.go
- parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/Programming_with_Google_Go/Getting_Started_with_Go/week1   main ±  ./helloworld
+>>./helloworld
 hello world
 ```
