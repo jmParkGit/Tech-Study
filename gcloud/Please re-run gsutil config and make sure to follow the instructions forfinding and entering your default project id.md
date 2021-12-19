@@ -46,3 +46,6 @@ environment = devshell
 
 ## 결과
 - project_id 추가 후, 정상적으로 gsutil 커맨드 실행됨
+
+## reference
+- https://github.com/google-github-actions/setup-gcloud/pull/68
