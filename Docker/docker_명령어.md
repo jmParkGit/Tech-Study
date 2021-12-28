@@ -65,7 +65,7 @@ docker login
 
 ### docker hub에 이미지 올리기
 ```shell
-docker {user_id}/{image_name}:{image_tag}
+docker push {user_id}/{image_name}:{image_tag}
 ```
 
 ### docker hub에서 이미지 가져오기
