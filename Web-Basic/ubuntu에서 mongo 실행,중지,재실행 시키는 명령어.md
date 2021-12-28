@@ -1,4 +1,4 @@
-# mongodb 명령어
+# ubuntu에서 mongo 실행,중지,재실행 시키는 명령어
 - mongo db 실행
 ```Shell
 service mongod start
