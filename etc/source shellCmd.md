@@ -4,4 +4,4 @@
   - 기존
     - bashrc 수정 후, reboot
   - source 적용시
-    - ```source bashrc```로 바로 적용
+    - ```source nano .bashrc```로 편집 뒤 바로 적용
