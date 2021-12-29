@@ -1,6 +1,6 @@
 # docker/build-push-action context 문제
 ## 문제
-- docker/build-push-action 사용할때 context를 Github URL로 **특정폴더**로 지정하면 에러난다.
+- docker/build-push-action 사용할때 context를 Github URL **특정폴더**로 지정하면 에러난다.
 - https://github.com/jmParkGit/Sparta_docker/runs/4660352238?check_suite_focus=true
 ```Yaml
 name: Build and push
