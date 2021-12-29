@@ -167,6 +167,7 @@ Error: buildx failed with: error: failed to solve: failed to read dockerfile: fa
 
 ## 해결한 방법
 - checkout 후, workspace/특정폴더 로 context 지정함.
+- ```./memo-app``` 혹은 ```"${{  github.workspace  }}/memo-app"```
 - https://github.com/jmParkGit/Sparta_docker/actions/runs/1634769223
 ```Yaml
 name: Build and push
