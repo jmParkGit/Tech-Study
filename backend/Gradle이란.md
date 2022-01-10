@@ -4,6 +4,7 @@
   - Javascript - NPM
   - Pyhon - pip
   - Java - mavenCentral, jcener
+  - 다운로드받고 적용하는 과정을 보다 편하게!
 ## 추가하는 방법
 1. Maven Repository에서 원하느 라이브러리르 찾는다.
 2. build.gradle에 원하는 프로젝트 파일으 넣는다.
