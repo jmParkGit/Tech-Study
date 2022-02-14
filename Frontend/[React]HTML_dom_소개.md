@@ -1,4 +1,4 @@
-# dom 소개
+# HTML dom 소개
 - ```<div>Hello</div>```, ```<p>안녕하세요</p>``` 등을 elements라고 부름
 - tag는 ```<></>```를 말함
 
