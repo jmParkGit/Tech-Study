@@ -1,4 +1,5 @@
 # mac - 특정 포트를 사용중인 프로세스 확인/종료
+- ```lsof -i :{port번호}```
 ```shell
 ✘ ⚙ parkjaemin@bagjaemin-ui-MacBookAir  ~/workspace/coding/JM_productReviewApp   main ±  sudo lsof -i :19000
 COMMAND   PID       USER   FD   TYPE            DEVICE SIZE/OFF NODE NAME
