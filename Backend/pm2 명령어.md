@@ -1,4 +1,4 @@
-#pm2 명령여
+# pm2 명령여
 ## pm2 설치
 ```shell
 sudo npm install -g pm2
